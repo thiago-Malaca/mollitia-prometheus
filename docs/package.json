@@ -15,7 +15,7 @@
     "@nuxtjs/pwa": "3.3.5",
     "core-js": "3.10.1",
     "mollitia": "0.0.6",
-    "nuxt": "2.15.4"
+    "nuxt": "4.4.2"
   },
   "devDependencies": {
     "@nuxt/types": "2.15.4",
